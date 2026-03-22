@@ -11,9 +11,6 @@ Implements three strategies from scratch:
 Reports: total return, annualised return, Sharpe ratio, max drawdown,
          win rate, number of trades, and a comparison chart vs buy-and-hold.
 
-Author  : Your Name
-GitHub  : github.com/yourusername/backtesting-engine
-
 Requirements:
     pip install numpy pandas matplotlib yfinance
 
